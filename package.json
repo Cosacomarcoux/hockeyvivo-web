@@ -1,0 +1,12 @@
+{
+  "name": "hockeyvivo-web",
+  "version": "1.0.0",
+  "description": "HockeyVivo — Tienda de Overgrips",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
